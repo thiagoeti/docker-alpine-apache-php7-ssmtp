@@ -29,7 +29,7 @@ Configure **SMTP**.
 
 ```console
 root=postmaster
-mailhub=email-ssl.com.br:587
+mailhub=email.com:587
 FromLineOverride=YES
 rewriteDomain=email.com
 AuthUser=user@email.com
